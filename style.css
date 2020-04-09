@@ -16,9 +16,14 @@ a:hover {
   margin: 1em;
 }
 
-.logo {
+.logo,
+.notification {
   width: 100%;
   max-width: 30em;
+}
+
+.notification {
+  margin-top: 2em;
 }
 
 .navbar-brand {
